@@ -1,0 +1,8 @@
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\bin\Debug\DAL.dll
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\bin\Debug\DAL.pdb
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\obj\x86\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\sivam\Rock\Sample_DataAccess\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
